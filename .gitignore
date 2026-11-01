@@ -1,0 +1,9 @@
+# Python & Notebook caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore large full market folder (926 files, ~150MB) to keep git push fast
+Data/Master Data
+test_pipeline.py
+create_notebook.py
