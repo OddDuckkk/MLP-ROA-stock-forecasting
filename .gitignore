@@ -5,5 +5,6 @@ __pycache__/
 
 # Ignore large full market folder (926 files, ~150MB) to keep git push fast
 Data/Master Data
+Data/Data Yahoo/
 test_pipeline.py
 create_notebook.py
